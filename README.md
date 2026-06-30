@@ -1,7 +1,7 @@
 Requirements:
 Node.js must be installed on your machine.
 
-How to Run the Simulator
+How to Run the Simulator: 
 To run the application locally, you will need to start both the Backend server and the Frontend web interface. This requires opening two separate terminal windows.
 Step 1: Start the Backend Server
 Open a terminal and navigate to the backend folder:
